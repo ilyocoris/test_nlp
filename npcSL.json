@@ -1,0 +1,32 @@
+{
+    "name": "Slave Corpus",
+    "locale": "en-US",
+    "data": [
+      {
+        "intent": "slave.follow",
+        "utterances": [
+          "follow me",
+          "accompany me",
+          "to me, slave",
+	  "come around"
+        ],
+        "answers": [
+          "Yes, Master.",
+          "As you wish."
+        ]
+      },
+      {
+        "intent": "slave.unfollow",
+        "utterances": [
+          "stop following",
+          "stay where you are",
+          "enough, slave!",
+	  "stay back, you reek!"
+        ],
+        "answers": [
+          "I will wait here.",
+          "Yes, Master."
+        ]
+      }
+    ]
+  }
