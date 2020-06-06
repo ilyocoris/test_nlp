@@ -1,0 +1,51 @@
+{
+    "name": "Sister Corpus",
+    "locale": "en-US",
+    "data": [
+      {
+        "intent": "feelsdad",
+        "utterances": [
+          "how is dad feeling?",
+          "are you sad about dad?",
+          "father is drinking a lot",
+	  "are you worried about our father?",
+	  "what is your opinion on dad?"
+        ],
+        "answers": [
+          "Dad is a drunk and a pervert."
+        ]
+      },
+      {
+        "intent": "basement",
+        "utterances": [
+          "i want to go to the basement",
+          "where's the basement?",
+          "where did the servant die?",
+	  "is there a dead slave in the basement?",
+	  "i want to go to where the servant died",
+	  "where is the key to the basement?",
+	  "how do I enter the basement",
+	  "i want to go see the corpse"
+        ],
+        "answers": [
+          "The basement? It's an awful spectacle down there..."
+        ]
+      },
+      {
+        "intent": "goodbye",
+        "utterances": [
+          "see you later",
+          "goodbye",
+          "bye",
+	  "cya",
+	  "ciao"
+        ],
+        "answers": [
+          "Goodbye!",
+	  "See you!",
+	  "αντιο σας"
+        ]
+      }
+    ]
+  }
+
