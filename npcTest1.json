@@ -1,31 +1,33 @@
 {
-    "name": "Slave Corpus",
+    "name": "Mom Corpus",
     "locale": "en-US",
     "data": [
       {
-        "intent": "greetings.bye",
+        "intent": "mom.toga",
         "utterances": [
-          "goodbye for now",
-          "bye bye take care",
-          "okay see you later",
-          "bye for now",
-          "i must go"
+          "where's my toga?",
+          "have you seen my clothes?",
+          "i am naked",
+	  "where's my cloak?",
+	  "have you seen my cloak?",
+	  "i want to be dressed"
+
         ],
         "answers": [
-          "Till next time",
-          "see you soon!"
+          "Your Toga? I saw your dad cleaning it. I think he felt quite bad about the whole affair..."
         ]
       },
       {
-        "intent": "greetings.hello",
+        "intent": "mom.basement",
         "utterances": [
-          "hello",
-          "hi",
-          "howdy"
+          "i want to go to the basement",
+          "where's the basement?",
+          "where did the servant die?",
+	  "is there a dead slave in the basement?",
+	  "i want to go to where the servant died"
         ],
         "answers": [
-          "Hey there!",
-          "Greetings!"
+          "The basement? It's an awful spectacle down there..."
         ]
       }
     ]
